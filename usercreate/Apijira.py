@@ -4,7 +4,7 @@ import json
 import io
 import csv
 
-user = <Jra-User>
+user = <Jira-User>
 Apitoken = <JiraToken>
 
 url = "https://solargik.atlassian.net/rest/api/3/user"
