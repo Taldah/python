@@ -4,8 +4,8 @@ import json
 import io
 import csv
 
-user = 'tal@solargik.com'
-Apitoken = 'ATATT3xFfGF0pfP0KuIsaieqVTT9qpztQ7T-UV7Nb9cHmXCdo1INLVe8UblXK8dNngEtnxxygNsnb7Is62pdF9kfFzWIg9H-mY_N466aRem1LbMt1UpKwAPIQUZb3gpdrSUXDb1IWeSDyWAoxVFXHG8Fnp61l3Z-zC-ZX8iLdWItjFidfnNtYSw=A8DCA417'
+user = <Jra-User>
+Apitoken = <JiraToken>
 
 url = "https://solargik.atlassian.net/rest/api/3/user"
 
