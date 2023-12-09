@@ -1,0 +1,1 @@
+tsh login --user rachel@solargik.com --proxy=tele.solargik.com

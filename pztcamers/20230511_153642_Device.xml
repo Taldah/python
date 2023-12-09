@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DeviceManager>
+    <Device GroupName="Default Group" Name="g24" IP="127.0.0.1" SN="78d6d2e9e346abc4" Port="46000" UserName="admin" GroupID="0" Password="DCA1AB253DDD873B" LoginType="0" Vendor="0" DevcType="2" ChanNum="1" />
+    <Device GroupName="Default Group" Name="mmc1" IP="127.0.0.1" SN="792978e6bf268a58" Port="42484" UserName="admin" GroupID="0" Password="020B83B6B9810AA4775B4225AC014304" LoginType="0" Vendor="0" DevcType="2" ChanNum="1" />
+    <Device GroupName="Default Group" Name="g25" IP="127.0.0.1" SN="753961c2d0aca158" Port="39881" UserName="admin" GroupID="0" Password="DCA1AB253DDD873B" LoginType="0" Vendor="0" DevcType="2" ChanNum="1" />
+    <Device GroupName="Default Group" Name="006-rfa" IP="127.0.0.1" SN="f5eb2591fdd46640" Port="56000" UserName="admin" GroupID="0" Password="DCA1AB253DDD873B" LoginType="0" Vendor="0" DevcType="2" ChanNum="1" />
+    <Device GroupName="Default Group" Name="026-nbn" IP="127.0.0.1" SN="99977bbc0d4ef279" Port="44800" UserName="admin" GroupID="0" Password="DCA1AB253DDD873B" LoginType="0" Vendor="0" DevcType="2" ChanNum="1" />
+    <Device GroupName="Default Group" Name="mmc2" IP="127.0.0.1" SN="304b485d168f5f9a" Port="46468" UserName="admin" GroupID="0" Password="DCA1AB253DDD873B" LoginType="0" Vendor="0" DevcType="2" ChanNum="1" />
+    <Device GroupName="Default Group" Name="018-rfa-west" IP="127.0.0.1" SN="8d6957e3b5136fe7" Port="46446" UserName="admin" GroupID="0" Password="DCA1AB253DDD873B" LoginType="0" Vendor="0" DevcType="2" ChanNum="1" />
+</DeviceManager>
